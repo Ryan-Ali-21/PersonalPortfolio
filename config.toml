@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://keen-bose-06748e.netlify.app/'
 languageCode = 'en-us'
 title = 'Ryan Ali'
 theme = 'm10c'
