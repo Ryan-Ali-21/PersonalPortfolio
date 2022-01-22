@@ -1,0 +1,61 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ryan Ali'
+theme = 'm10c'
+summaryLength = 20
+
+[params]
+title = "I'm Ryan"
+author = "Ryan Ali"
+description = "Welcome to my personal website."
+avatar = '/me2.jpg'
+favicon = '/rra.ico'
+menu_item_separator = '&#8226'
+menu = "main"
+#menu
+[menu]
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact#title"
+  weight = 2
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/#title"
+  weight = 1
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog#title"
+  weight = 3
+
+
+
+#socials
+[[params.social]]
+  icon = "linkedin"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/ryan-ali-ra542"
+
+[[params.social]]
+    icon = "mail"
+    name = "Email"
+    url = "mailto:ra542@kent.ac.uk"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/Ryan-Ali-21"
+
+
+
+
+
+#style
+[params.style]
+ darkestColor = "#315659"
+ darkColor = "#253031"
+ lightColor = "#96a879"
+ lightestColor = "#fff"
+ primaryColor = "#dad865"
