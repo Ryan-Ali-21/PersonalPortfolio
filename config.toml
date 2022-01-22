@@ -8,8 +8,8 @@ summaryLength = 20
 title = "I'm Ryan"
 author = "Ryan Ali"
 description = "Welcome to my personal website."
-avatar = '/me2.jpg'
-favicon = '/rra.ico'
+avatar = '/images/me2.jpg'
+favicon = '/images/rra.ico'
 menu_item_separator = '&#8226'
 menu = "main"
 #menu

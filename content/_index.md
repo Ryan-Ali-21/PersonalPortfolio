@@ -24,6 +24,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, I'm Ryan i'm from Trin
   - #### Microsoft Azure Fundamentals {{< rawhtml >}} &#8226 {{< /rawhtml >}} Dec 2021
     - \- [Credly Badge](https://www.credly.com/badges/eccec3b3-a3e9-40a0-8567-9ab518bf167f/public_url)
 
-     ![Microsoft Azure Fundamentals Certificate](/microsoft-certified-azure-fundamentals.png)
+     ![Microsoft Azure Fundamentals Certificate](/images/microsoft-certified-azure-fundamentals.png)
 
 ***
