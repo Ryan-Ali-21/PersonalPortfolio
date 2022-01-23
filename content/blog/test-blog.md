@@ -1,7 +1,7 @@
 ---
 title: "Test Blog"
 date: 2022-01-21T23:19:24Z
-draft: true
+draft: false
 tags: ['firstpost','helloWorld']
 ---
 
