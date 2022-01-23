@@ -5,7 +5,7 @@ theme = 'm10c'
 summaryLength = 20
 
 [params]
-title = "I'm Ryan"
+title = "Ryan's site"
 author = "Ryan Ali"
 description = "Welcome to my personal website."
 #images = ['ogimage.png']
