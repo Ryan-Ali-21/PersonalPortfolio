@@ -1,7 +1,7 @@
 ---
 title: Hugo + Github + Netlify CMS
 date: 2022-01-23T01:44:12.070Z
-darft: true
+darft: false
 tags:
   - Webdev
 ---
